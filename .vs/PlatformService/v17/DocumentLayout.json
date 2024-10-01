@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|d:\\migrationemsapp\\samplemaui\\microservices\\platformservice\\platformservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|d:\\migrationemsapp\\samplemaui\\microservices\\platformservice\\platformservice\\profiles\\platformsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\profiles\\platformsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|d:\\migrationemsapp\\samplemaui\\microservices\\platformservice\\platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|d:\\migrationemsapp\\samplemaui\\microservices\\platformservice\\platformservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|d:\\migrationemsapp\\samplemaui\\microservices\\platformservice\\platformservice\\dto\\platformcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\dto\\platformcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|d:\\migrationemsapp\\samplemaui\\microservices\\platformservice\\platformservice\\dto\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\dto\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|d:\\migrationemsapp\\samplemaui\\microservices\\platformservice\\platformservice\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|d:\\migrationemsapp\\samplemaui\\microservices\\platformservice\\platformservice\\data\\platformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\data\\platformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|d:\\migrationemsapp\\samplemaui\\microservices\\platformservice\\platformservice\\data\\iplatformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\data\\iplatformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|d:\\migrationemsapp\\samplemaui\\microservices\\platformservice\\platformservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8BA21-176B-40C0-959E-0F4B0B1E45E5}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{349f9bf5-2e30-3986-9160-182c28a1f71a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlatformsController.cs",
+              "DocumentMoniker": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Controllers\\PlatformsController.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Controllers\\PlatformsController.cs",
+              "ToolTip": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Controllers\\PlatformsController.cs",
+              "RelativeToolTip": "PlatformService\\Controllers\\PlatformsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:26:49.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlatformsProfile.cs",
+              "DocumentMoniker": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Profiles\\PlatformsProfile.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Profiles\\PlatformsProfile.cs",
+              "ToolTip": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Profiles\\PlatformsProfile.cs",
+              "RelativeToolTip": "PlatformService\\Profiles\\PlatformsProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:22:14.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlatformCreateDTO.cs",
+              "DocumentMoniker": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\DTO\\PlatformCreateDTO.cs",
+              "RelativeDocumentMoniker": "PlatformService\\DTO\\PlatformCreateDTO.cs",
+              "ToolTip": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\DTO\\PlatformCreateDTO.cs",
+              "RelativeToolTip": "PlatformService\\DTO\\PlatformCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:01:49.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlatformReadDTO.cs",
+              "DocumentMoniker": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\DTO\\PlatformReadDTO.cs",
+              "RelativeDocumentMoniker": "PlatformService\\DTO\\PlatformReadDTO.cs",
+              "ToolTip": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\DTO\\PlatformReadDTO.cs",
+              "RelativeToolTip": "PlatformService\\DTO\\PlatformReadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:00:55.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrepDb.cs",
+              "DocumentMoniker": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Data\\PrepDb.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Data\\PrepDb.cs",
+              "ToolTip": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Data\\PrepDb.cs",
+              "RelativeToolTip": "PlatformService\\Data\\PrepDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:13:28.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlatformRepo.cs",
+              "DocumentMoniker": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Data\\PlatformRepo.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Data\\PlatformRepo.cs",
+              "ToolTip": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Data\\PlatformRepo.cs",
+              "RelativeToolTip": "PlatformService\\Data\\PlatformRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:48:35.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPlatformRepo.cs",
+              "DocumentMoniker": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Data\\IPlatformRepo.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Data\\IPlatformRepo.cs",
+              "ToolTip": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Data\\IPlatformRepo.cs",
+              "RelativeToolTip": "PlatformService\\Data\\IPlatformRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:45:50.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "PlatformService\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:26:46.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Models\\Platform.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Models\\Platform.cs",
+              "ToolTip": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Models\\Platform.cs",
+              "RelativeToolTip": "PlatformService\\Models\\Platform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:21:47.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Program.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Program.cs",
+              "ToolTip": "D:\\MigrationEMSAPP\\sampleMaui\\MicroServices\\PlatformService\\PlatformService\\Program.cs",
+              "RelativeToolTip": "PlatformService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:12:32.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
