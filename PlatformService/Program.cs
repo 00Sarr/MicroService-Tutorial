@@ -10,7 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDBContext>(options => options.UseInMemoryDatabase("InMem"));
-builder.Services.AddScoped<IPlatformRepo, IPlatformRepo>();
+builder.Services.AddScoped<IPlatformRepo, PlatformRepo>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 var app = builder.Build();
 
@@ -24,5 +24,7 @@ if (app.Environment.IsDevelopment())
 app.UseAuthorization();
 
 app.MapControllers();
+
+PrepDb.PrepPopulation(app);
 
 app.Run();
